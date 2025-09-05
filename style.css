@@ -1,9 +1,9 @@
 body {
-   color: white;  
+   color: black;  
    font-size: 32px;
    margin-top: 5%;
    margin-left: 20%;
    margin-right: 20%;
-   background-color: #333;
-   font-family: 'Satisfy', cursive;
+   background-color: yellow;
+   font-family: 'Times New Roman', Times, serif;
 }
